@@ -19,7 +19,7 @@ export COLOR_14="#6855de"           #
 export COLOR_15="#4fb8cc"           #
 export COLOR_16="#f1f1f1"           #
 
-export BACKGROUND_COLOR="#f1f1f1"   # Background Color
+export BACKGROUND_COLOR="#fefdfa"   # Background Color
 export FOREGROUND_COLOR="#424242"   # Text
 export CURSOR_COLOR="$FOREGROUND_COLOR" # Cursor
 export PROFILE_NAME="Pencil Light"
